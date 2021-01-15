@@ -1,4 +1,4 @@
-# Basit Kullanıcı Giriş Uygulaması
+# Basit Kullanıcı Giriş Uygulaması (Python)
 <p align="center">
 <img align="center" src="http://www.pngmart.com/files/7/Python-PNG-File.png" width="150" >
 </p>
